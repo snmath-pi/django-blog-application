@@ -22,3 +22,11 @@ This Django Blog Application is a versatile platform for blogging with a range o
    ```bash
    git clone https://github.com/your_username/django-blog.git
    cd django-blog
+
+## YouTube Demo
+
+Watch the application in action on YouTube:
+
+[![Django Blog Application Demo](https://img.youtube.com/vi/Zh1pab71lsU/0.jpg)](https://youtu.be/Zh1pab71lsU)
+
+Click the image above or [here](https://youtu.be/Zh1pab71lsU) to view the demo.
