@@ -27,6 +27,6 @@ This Django Blog Application is a versatile platform for blogging with a range o
 
 Watch the application in action on YouTube:
 
-[![Django Blog Application Demo](https://img.youtube.com/vi/Zh1pab71lsU/0.jpg)](https://youtu.be/Zh1pab71lsU)
+[![Django Blog Application Demo][(https://img.(https://youtu.be/W8JCsjRXn_U)/0.jpg)](https://youtu.be/W8JCsjRXn_U)
 
-Click the image above or [here](https://youtu.be/Zh1pab71lsU) to view the demo.
+Click the image above or [here](https://youtu.be/W8JCsjRXn_U) to view the demo.
