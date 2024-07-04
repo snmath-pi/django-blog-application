@@ -1,0 +1,2 @@
+EMAIL_USER=your-email@gmail.com
+EMAIL_PASS=your-email-password
