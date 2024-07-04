@@ -13,7 +13,6 @@ This Django Blog Application is a versatile platform for blogging with a range o
 
 - **Django:** Python web framework for backend development.
 - **HTML/CSS:** Frontend structure and styling.
-- **JavaScript:** Enhancing frontend interactivity.
 - **Pillow:** Python Imaging Library for image handling.
 
 ## Setup Instructions
